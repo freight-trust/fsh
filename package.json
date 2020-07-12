@@ -1,0 +1,22 @@
+{
+  "name": "@freight-trust/fsh",
+  "version": "1.0.0",
+  "description": "<!-- markdownlint-disable MD041 --> ![FREIGHT TRUST Logo](./static/gh-banner.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freight-trust/fsh.git"
+  },
+  "author": "corporate@freighttrust.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/freight-trust/fsh/issues"
+  },
+  "homepage": "https://github.com/freight-trust/fsh#readme",
+  "dependencies": {
+    "standard-version": "^8.0.1"
+  }
+}
